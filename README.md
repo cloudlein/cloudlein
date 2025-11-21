@@ -3,14 +3,12 @@
   <div style="padding: 10px; border-radius: 8px; font-family: monospace;">
     <pre>
 data class Profile(
-    val name: String = "Salahudin-cloud",
+    val name: String = "Cloudlein",
     val description: String = "Passionate developer exploring new tech",
     val languages: List<String> = listOf("Java", "Kotlin", "PHP"),
     val focus: List<String> = listOf("Web", "Android"),
-    val github: String = "https://github.com/Salahudin-cloud",
-    val linkedin: String = "https://www.linkedin.com/in/salahudin-al",
-    val instagram: String = "https://www.instagram.com/is.icloud",
-    val location: String = "Magelang, Indonesia",
+    val github: String = "https://github.com/cloudlein",
+    val location: String = "张家界市，湖南省，中国",
     val hobbies: List<String> = listOf("Gaming", "Music")
 )
     </pre>
