@@ -5,7 +5,7 @@
 data class Profile(
     val name: String = "Cloudlein",
     val description: String = "Passionate developer exploring new tech",
-    val languages: List<String> = listOf("Java", "Kotlin", "PHP"),
+    val languages: List<String> = listOf("Java", "PHP", "Rust),
     val focus: List<String> = listOf("Web", "Android"),
     val github: String = "https://github.com/cloudlein",
     val location: String = "张家界市，湖南省，中国",
@@ -15,8 +15,10 @@ data class Profile(
   </div>
 </div>
 <!-- Copy-paste in your Readme.md file -->
+      
+[![GitHub Streak](https://streak-stats.demolab.com?user=cloudlein&theme=dark&locale=zh_Hans)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudlein&show_icons=true&bg_color=00000000&locale=ja)
+![Codewars](https://github.r2v.ch/codewars?user=Salahudin-cloud)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cloudlein&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
