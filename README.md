@@ -18,7 +18,7 @@ data class Profile(
       
 [![GitHub Streak](https://streak-stats.demolab.com?user=cloudlein&theme=dark&locale=zh_Hans)](https://git.io/streak-stats)
 
-![Codewars](https://github.r2v.ch/codewars?user=Salahudin-cloud)
+![Codewars](https://github.r2v.ch/codewars?user=cloudlein)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cloudlein&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
